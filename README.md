@@ -4,6 +4,14 @@
 
 [投影片](https://docs.google.com/presentation/d/1XDSWULSKJjudGcbf2JlQGJ6JXryI8gyk69IWpmX278Y/edit#slide=id.p) [hackpad](https://hackpad.tw/--jBgwNkPTdiW)
 
+## 緣由
+
+沒有人參加[第 30 次的 g0v 黑客松](https://beta.hackfoldr.org/g0v-hackath30n)所看到這個題目後，想跳進來看看能不能做點什麼事情。
+
+## 資料來源
+
+1. [ ] [台灣自來水公司供水轄區資訊](https://data.gov.tw/dataset/36602)
+
 ## Project Initial Steps
 
 Create PWA tempalte:
